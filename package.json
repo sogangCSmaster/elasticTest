@@ -1,0 +1,22 @@
+{
+  "name": "elastictest",
+  "version": "1.0.0",
+  "description": "elasticTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sogangCSmaster/elasticTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sogangCSmaster/elasticTest/issues"
+  },
+  "homepage": "https://github.com/sogangCSmaster/elasticTest#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
